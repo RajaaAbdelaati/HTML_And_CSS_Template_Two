@@ -2,11 +2,13 @@
 
 HTML And CSS Design Number Two
 
-This project is a recreation of a design sourced from Graphberry.
+This project is an implementation of a Graphberry-inspired design.
+
 I implemented the entire template using HTML and CSS only.
 
 🔗 Original Design
-You can find the original template here:
+You can find the original template here :
+
 https://www.graphberry.com/item/kasper-one-page-creative-html-theme
 
 ### 🔍Demo
